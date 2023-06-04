@@ -78,9 +78,9 @@ function activate_license() {
 
 /**
  * Activate( i.e. create and save ) the default index.
- * 
+ *
  * This function emulates the "Save" button on the SearchWP Engines tab.
- * 
+ *
  * @return void
  */
 function activate_default_search_engine() : void {

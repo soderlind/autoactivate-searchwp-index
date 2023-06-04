@@ -1,0 +1,8 @@
+{
+	"name": "soderlind/autoactivate-searchwp-index",
+	"description": "Autoactivate SearchWP Default Index",
+	"type": "wordpress-muplugin",
+	"homepage": "https://github.com/soderlind/autoactivate-searchwp-index",
+	"license": "GPL-2.0-or-later",
+	"require": {}
+}

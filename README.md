@@ -1,6 +1,6 @@
 # Autoactivate SearchWP default Index
 
-This plugin will autoactivate SearchWP default index when the SearchWP plugin is activated.
+This plugin will autoactivate SearchWP default index when the SearchWP plugin is activated. The plugin emulates the "Save" button on the SearchWP Engines tab.
 
 # Prerequisites
 

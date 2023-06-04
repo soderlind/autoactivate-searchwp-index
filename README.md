@@ -2,12 +2,14 @@
 
 This plugin will autoactivate SearchWP default index when the SearchWP plugin is activated. The plugin emulates the "Save" button on the SearchWP Engines tab.
 
+I use this on a multisite installation where I automatically activate SearchWP on new sites, and I want the default index to be active whitout any manual intervention.
+
 # Prerequisites
 
 - [SearchWP](https://searchwp.com/)
 - Define til SearchWP license key in wp-config.php
   ```php
-  define( 'SEARCHWP_LICENSE_KEY', 'your license key' );
+  define( 'SEARCHWP_LICENSE_KEY', 'your license key' ); // On a multisite you need an agency license.
   ```
 
 # Installation

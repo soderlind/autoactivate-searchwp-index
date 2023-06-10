@@ -1,3 +1,5 @@
+> Need Norwegian stop words for SearchWP? I have [a plugin that adds them](https://github.com/soderlind/norwegian-stopwords-searchwp4)
+
 # Autoactivate SearchWP default Index
 
 This plugin will autoactivate SearchWP default index when the SearchWP plugin is activated. The plugin emulates the "Save" button on the SearchWP Engines tab.
